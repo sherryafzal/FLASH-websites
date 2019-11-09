@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+	<slideshow  displayTime="5" 
+				transitionSpeed=".7"
+				transitionType="Fade"
+				motionType="None"
+				motionEasing="easeInOut"
+				randomize="false"
+				slideshowWidth="435"
+				slideshowHeight="300"
+				slideshowX="center"
+				slideshowY="0"
+				bgColor="333333"
+				bgOpacity="100"
+				useHtml="true"
+				showHideCaption="true"
+				captionBg="000000"
+				captionBgOpacity="40"
+				captionTextSize="11"
+				captionTextColor="FFFFFF"
+				captionBold="false"
+				captionPadding="7"
+				showNav="true"
+				autoHideNav="true"
+				navHiddenOpacity="15"
+				navX="center"
+				navY="center"
+				btnColor="FFCC00"
+				btnHoverColor="ffffff"
+				btnShadowOpacity="70"
+				btnGradientOpacity="20"
+				btnScale="120"
+				btnSpace="10"
+				navBgColor="333333"
+				navBgAlpha="95"
+				navCornerRadius="20"
+				navBorderWidth="2"
+				navBorderColor="FFFFFF"
+				navBorderAlpha="100"
+				navPadding="10"
+				tooltipSize="8"
+				tooltipColor="000000"
+				tooltipBold="true"
+				tooltipFill="FFFFFF"
+				tooltipStrokeColor="000000"
+				tooltipFillAlpha="80"
+				tooltipStroke="0"
+				tooltipStrokeAlpha="0"
+				tooltipCornerRadius="8"
+				loaderWidth="200"
+				loaderHeight="1"
+				loaderColor="FF0000"
+				loaderOpacity="100" 
+				
+				attachCaptionToImage="true"
+				imageScaling="fill"
+				slideshowMargin="0"
+				showMusicButton="false"
+				music=""
+				musicVolume="100"
+				musicMuted="true"
+				musicLoop="true"
+				watermark=""
+				watermarkX="625"
+				watermarkY="30"
+				watermarkOpacity="100"
+				watermarkLink=""
+				watermarkLinkTarget="_blank"
+				captionsY="bottom"
+				>
+		<image img="images/Camomille.jpg" link="images/Camomille.jpg" target="_blank" caption="%3Cfont size='18' color='#FFCC00'%3E %3Cb%3ECaption Text %3C/b%3E %3C/font%3E  %3Cbr%3E    %3Cfont size='12' color='#FFFFFF'%3E This can be %3Cu%3E%3Cb%3EHTML TEXT%3C/b%3E%3C/u%3E , or you can style the captions globally.%3C/font%3E   
+" tooltip="Click to view image"/>
+		<image img="images/Bells.jpg" caption="If no tooltip is set, it will not display"/>
+		<image img="images/Camomille.jpg" tooltip="If no caption is defined, it will not display"/>
+		<image img="images/Bells.jpg" link="images/Bells.jpg" target="_blank" caption="If you do not include html tags in your caption, it will take on the default style defined in xml" tooltip="Click image to view"/>
+		<image img="images/Camomille.jpg" caption="Create unique transitions by customizing the speed and fluidity of the motion." />
+		<image img="images/Bells.jpg" caption="You can position the prev/pause/next controls anywhere in in the slideshow or choose to hide it alltogether and let the viewers use the keys for control" />
+		<image img="images/Camomille.jpg" caption="Try using the back and next arrow keys on your keyboard to navigate throught the slideshow.  Use the space bar to pause/play." />
+		<image img="images/Bells.jpg" tooltip="%3Cfont size='9' %3E  %3Cb%3ETip:%3C/b%3E try using your left and right arrow keys on your keyboard  %3C/font%3E  " />
+		<image img="images/Camomille.jpg" tooltip="%3Cfont size='9' %3E  %3Cb%3EHtml %3Ci%3EText%3C/i%3E %3C/b%3E is allowed in tooltip "/>
+		<image img="images/Bells.jpg" caption="If you don't specify a link, the image will not be clickable.  You can still create links in your html using the 'a' tag.  You just have to make sure that showHideCaption is set to false" /> 
+		<image img="images/Camomille.jpg" caption="You can set the captions to auto-hide or stay on all the time" />
+		<image img="images/Bells.jpg" tooltip="click the %22MORE DEMOS%22 link below"/>
+	</slideshow>
+	

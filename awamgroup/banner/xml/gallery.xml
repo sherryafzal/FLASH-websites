@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- slideShowTime - if set to 0, there is no autoslide -->
+
+<banner width = "560" height = "350"
+		backgroundColor = "0xffffff"
+		backgroundTransparency = "100"
+        
+		timerDisable="false"
+        buttonsSide="left"
+		buttonsMarginX="20"
+        
+		startWith = "1"
+        controllerHeight = "25"
+        
+		autoPlay="false"
+		fadeTransition = "false"
+		verticalTransition = "false"
+		controllerTop = "false"
+		transitionSpeed = "1"
+		titleX = "0"        
+		titleY = "0">
+	<items>
+		<item>
+			<title><![CDATA[<font color='#FF0000'>A title for this image</font>]]></title>
+			<path>content/images/image1.jpg</path>
+			<url></url>
+			<target>_blank</target>
+			<bar_color>0xcd0a10</bar_color>
+			<bar_transparency>70</bar_transparency>
+			<slideShowTime>3</slideShowTime>
+		</item>
+		
+		<item>
+			<title></title>
+			<path>content/images/image2.jpg</path>
+			<url>http://blog.flabell.com</url>
+			<target>_blank</target>
+			<bar_color>0x4f363c</bar_color>
+			<bar_transparency>50</bar_transparency>
+			<slideShowTime>5</slideShowTime>
+		</item>
+		
+		<item>
+			<title></title>
+			<path>content/images/image3.jpg</path>
+			<url>http://www.flabell.com/products/archive</url>
+			<target>_blank</target>
+			<bar_color>0x98521e</bar_color>
+			<bar_transparency>70</bar_transparency>
+			<slideShowTime>8</slideShowTime>
+		</item>
+		
+		<item>
+			<title></title>
+			<path>content/images/image4.jpg</path>
+			<url>http://www.flabell.com/tutorials</url>
+			<target>_blank</target>
+			<bar_color>0x2a2953</bar_color>
+			<bar_transparency>70</bar_transparency>
+			<slideShowTime>4</slideShowTime>
+		</item>
+		
+		<item>
+			<title></title>
+			<path>content/images/image5.jpg</path>
+			<url>http://www.flabell.com/contact</url>
+			<target>_blank</target>
+			<bar_color>0x5b518e</bar_color>
+			<bar_transparency>70</bar_transparency>
+			<slideShowTime>6</slideShowTime>
+		</item>
+		
+		<item>
+			<title></title>
+			<path>content/images/image6.jpg</path>
+			<url>http://www.flabell.com/faqs</url>
+			<target>_blank</target>
+			<bar_color>0x161115</bar_color>
+			<bar_transparency>70</bar_transparency>
+			<slideShowTime>5</slideShowTime>
+		</item>
+	</items>
+		
+</banner>

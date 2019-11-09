@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<slideshow width = "560" height = "373" 
+		startWith = "1"
+		backgroundColor = "0xffffff" 
+		backgroundTransparency = "100"
+		randomSlideshow = "true"
+		loop = "true">
+
+	<item>
+		<path>content/images/image1.jpg</path>
+		<link>http://www.flabell.com/flash-components</link>
+		<target>_blank</target>
+		
+		<transitionTime>1</transitionTime>
+		<slideShowTime>3</slideShowTime>
+	</item>
+	
+	
+	<item>
+		<path>content/images/image2.jpg</path>
+		<link>http://www.flabell.com/flash-components</link>
+		<target>_blank</target>
+
+		<transitionTime>1</transitionTime>
+		<slideShowTime>3</slideShowTime>
+	</item>
+	
+	
+	<item>
+		<path>content/images/image3.jpg</path>
+		<link>http://www.flabell.com/flash-components</link>
+		<target>_blank</target>
+
+		<transitionTime>1</transitionTime>
+		<slideShowTime>3</slideShowTime>
+	</item>
+	
+	
+	<item>
+		<path>content/images/image4.jpg</path>
+		<link>http://www.flabell.com/flash-components</link>
+		<target>_blank</target>
+
+		<transitionTime>1</transitionTime>
+		<slideShowTime>3</slideShowTime>
+	</item>
+	
+	
+	<item>
+		<path>content/images/image5.jpg</path>
+		<link>http://www.flabell.com/flash-components</link>
+		<target>_blank</target>
+
+		<transitionTime>1</transitionTime>
+		<slideShowTime>3</slideShowTime>
+	</item>
+	
+	
+	<item>
+		<path>content/images/image6.jpg</path>
+		<link>http://www.flabell.com/flash-components</link>
+		<target>_blank</target>
+
+		<transitionTime>1</transitionTime>
+		<slideShowTime>3</slideShowTime>
+	</item>
+	
+	
+	<item>
+		<path>content/images/image7.jpg</path>
+		<link>http://www.flabell.com/flash-components</link>
+		<target>_blank</target>
+
+		<transitionTime>1</transitionTime>
+		<slideShowTime>3</slideShowTime>
+	</item>
+	
+	
+	<item>
+		<path>content/images/image8.jpg</path>
+		<link>http://www.flabell.com/flash-components</link>
+		<target>_blank</target>
+
+		<transitionTime>1</transitionTime>
+		<slideShowTime>3</slideShowTime>
+	</item>
+	
+	
+	<item>
+		<path>content/images/image9.jpg</path>
+		<link>http://www.flabell.com/flash-components</link>
+		<target>_blank</target>
+
+		<transitionTime>1</transitionTime>
+		<slideShowTime>3</slideShowTime>
+	</item>
+	
+	
+	<item>
+		<path>content/images/image10.jpg</path>
+		<link>http://www.flabell.com/flash-components</link>
+		<target>_blank</target>
+
+		<transitionTime>1</transitionTime>
+		<slideShowTime>3</slideShowTime>
+	</item>
+	
+	
+	<item>
+		<path>content/images/image11.jpg</path>
+		<link>http://www.flabell.com/flash-components</link>
+		<target>_blank</target>
+
+		<transitionTime>1</transitionTime>
+		<slideShowTime>3</slideShowTime>
+	</item>
+	
+	
+	<item>
+		<path>content/images/image12.jpg</path>
+		<link>http://www.flabell.com/flash-components</link>
+		<target>_blank</target>
+
+		<transitionTime>1</transitionTime>
+		<slideShowTime>3</slideShowTime>
+	</item>
+		
+</slideshow>

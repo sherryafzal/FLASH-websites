@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gallery frameColor="0xFFFFFF" frameWidth="2" imagePadding="2" displayTime="6" enableRightClickOpen="true" autoplay="True">
+<image>
+   <url>images/01.jpg</url>
+   <caption></caption>
+   <width>1000</width>
+   <height>400</height>
+</image>
+<image>
+   <url>images/02.jpg</url>
+   <caption></caption>
+   <width>1000</width>
+   <height>400</height>
+</image>
+<image>
+   <url>images/03.jpg</url>
+   <caption></caption>
+   <width>1000</width>
+   <height>400</height>
+</image>
+</gallery>

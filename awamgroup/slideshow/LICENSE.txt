@@ -1,0 +1,21 @@
+Licensing Agreement
+
+SOFTWARE = FILES INCLUDED IN THIS DOWNLOAD.
+
+YOU MAY:
+Install this software on one site.  Install the software on a client's site and charge the client what you wish for it. Customize the look of the software.
+
+YOU MAY NOT:
+Install the software on more than one site.  Re-sell the software.  Re-distribute the software in any way other than passing it to a client once. Use significant portions of the software code in other projects.
+
+
+This is a legal agreement between you (either an individual or an entity), the end user, and flashnifties.com regarding use of the software accompanying this Agreement. By installing, copying, or otherwise using the Software you agree to the terms outlined in this Agreement. If you do not agree to the terms of this Agreement, do not install or use the Software. 
+ 
+Should you accept the terms of this agreement, flashnifties.com will grant you the personal and non-exclusive right to install and use the software. 
+The Software may not be redistributed. No parts of The Software or other files provided in this package may be reproduced in part or in whole. You may not remove any copyright or other proprietary notice from the software. You may not reverse engineer, decompile, or disassemble the software. 
+
+COPYRIGHT NOTICE 
+The Software is Copyright (c) 2011 by flashnifties.com. The Software is protected by the international copyright treaty provisions. 
+
+DISCLAIMER 
+The Software is provided "AS IS". You agree that by accepting this license, you are expressly acknowledging that the use of the software is AT YOUR OWN RISK. flashnifties.com MAKES NO WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE, WITH RESPECT TO THE SOFTWARE AND ANY ACCOMPANYING DOCUMENTATION. IN NO EVENT SHALL flashnifties.com BE LIABLE FOR ANY DAMAGES (INCLUDING DAMAGES FOR LOSS OF BUSINESS PROFITS, BUSINESS INTERRUPTION, LOSS OF BUSINESS INFORMATION, OR OTHER PECUNIARY LOSS) ARISING OUT OF THE USE OF OR INABILITY TO USE THE SOFTWARE, EVEN IF flashnifties.com HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.

@@ -1,0 +1,29 @@
+
+----------------------------------------------------------
+----------------------  BASIC SETUP:  --------------------
+----------------------------------------------------------
+
+
+--------------  STEP 1 - Prepare Images     --------------
+
+Size your images to the maximum size that you want them to appear in the slideshow. Save your images in JPG format into the images folder. Make sure the JPG's are saved as non-progressive JPG's. 
+
+-------------  STEP 2 - Add Images To XML    -------------
+
+Open slideshow.xml using a text or html editor. Each image in the slideshow is represented by a <image /> node. Attributes img, link, target, tooltip and caption correspond to the JPG, link, target of link, and the caption that will appear in the slideshow. Create a tag for each image you want to display in the slideshow. Here's an example of a properly formatted tag:
+
+<image img="images.jpg" link="http://yoursite.com" target="_blank" caption="Custom caption" tooltip="tooltip text" />
+
+Note: If you omit the caption attribute, the caption will not show up. If you omit the link attribute, the image will not be clickable, etc.
+
+-------------  STEP 2 - Test and Upload    -------------
+
+Test the slideshow by loading slideshow.html in the browser. Now upload the following files to your server: slideshow.html, slideshow.swf, slideshow.xml, flashdetect.js, and the images folder. 
+
+-----------------------------------------------------------
+
+Full documentation for the player can be found online:
+http://www.flashnifties.com/products/xml-flash-slideshow/documentation/
+
+If you are looking for an even easier way to manager your slideshows, be sure to check out Nifty Manager: 
+http://www.flashnifties.com/products/nifty-manager/
